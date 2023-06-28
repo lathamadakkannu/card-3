@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	border-radius:500px;
+	margin-left:10px;
+	margin-top:30px;
+	
+}
+
+#container{
+	background-color:#0000;
+	width:100%;
+	margin:auto;
+	
+}
+
+#col{
+	width:100%;
+}
+
+img{
+	margin-left:20%;
+	border:5px solid #ffff;
+}
+
+div
+{
+	width:37%;
+	height:500px;
+	background-color:#E5E4E2;
+	border-radius:10px;
+	margin:auto;	
+}
+
+h2{
+	text-align:center;
+}
+
+h3{
+	color:gray;
+	text-align:center;
+}	
+
+p{
+	text-align:center;
+}
+
